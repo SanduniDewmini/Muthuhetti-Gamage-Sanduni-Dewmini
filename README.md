@@ -5,7 +5,18 @@ I am a Statistics graduate from the University of Sri Jayewardenepura, currently
 
 Alongside my academic and research work, I also work as a freelance Mathematics teacher, teaching students from Grade 6 to Ordinary Level.
 
-Passionate about transforming data into meaningful insights. My main areas of interest are Data Science, Business Statistics, and Artificial Intelligence (AI).
+Passionate about transforming data into meaningful insights. 
+
+## 🧠 Interested Areas
+
+- Data Science
+- Business Statistics
+- Artificial Intelligence (AI)
+
+## 🧠 Currently Learning
+
+- Machine learning and time series forecasting using neural networks
+- Advanced data visualization techniques and tools
 
 ## 📂 Featured Projects
 
@@ -69,10 +80,7 @@ silver, and crude oil, enhancing market trend analysis with visualizations.
 - Git, GitHub, GitHub Pages  
 - Data Visualization: ggplot2, Plotly, Tableau, Power BI
 
-## 🧠 Currently Learning
 
-- Machine learning and time series forecasting using neural networks
-- Advanced data visualization techniques and tools
 
 ## 📫 Connect with Me
 
