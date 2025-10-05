@@ -37,6 +37,13 @@ silver, and crude oil, enhancing market trend analysis with visualizations.
   Guided statistical to evaluate quinoa stress tolerance, utilizing R and SAS.
   *R, SAS, Multivariate Non-parametric Methods, Mixed effect Models*
 
+- **Comparative Analysis of Different Source Cultured Crab Meat in Sri Lanka**
+  Provided statistical consultancy by guiding data analysis and applying nonparametric methods and data visualization techniques using R.
+  *R, Multivariate Non-parametic Methods, Data Visualization*
+
+- **Prevalence and Risk Factors of Voice Disorders Among Teachers in Haguranketha Educational Zone, Nuwara Eliya District**
+  Supported the study with expert guidance in data analysis using categorical data analysis techniques and hypothesis testing in R.
+  *R, Hypothesis testing, Data visualization, Categorical Analysis*
 
 - **Interactive Dashboard for Analysis and Insights of Parking Violations Data in
   Philadelphia (2017)**  
@@ -46,13 +53,13 @@ silver, and crude oil, enhancing market trend analysis with visualizations.
 - **Interactive Sales Dashboard Leveraging Pentaho DI Kettle Dataset to Analyze and
   Monitor Sales Performance**  
   Business analytics dashboard for sales data.  
-  *R, Dashboard Design*
+  *R, Dashboard Design, Tableau*
 
 - **Modeling and Forecasting Fluctuations of Adjusted Close Prices of Gold, Silver, and
   Crude Oil in the Stock Market**
   Applied time series forecasting techniques in R to model and predict adjusted close prices of gold,
   silver, and crude oil, enhancing market trend analysis with visualizations.
-*R, Time Series Analysis, Data Visualization*   
+  *R, Time Series Analysis, Data Visualization*   
 
 
 ## 🛠️ Tools & Technologies
