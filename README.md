@@ -33,6 +33,10 @@ silver, and crude oil, enhancing market trend analysis with visualizations.
   and people**
   *R, Data Visualization, Data preprocessing*
 
+- **Water and Salt Stress Tolerance of Different Varieties of Quinoa: A Climate Resilience Future Crop for Sri Lanka**
+  Guided statistical to evaluate quinoa stress tolerance, utilizing R and SAS
+  *R, SAS, Multivariate Non-parametric Methods, Mixed effect Models*
+
 
 - **Interactive Dashboard for Analysis and Insights of Parking Violations Data in
   Philadelphia (2017)**  
