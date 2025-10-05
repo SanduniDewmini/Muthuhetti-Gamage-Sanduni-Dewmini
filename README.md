@@ -19,7 +19,7 @@ silver, and crude oil, enhancing market trend analysis with visualizations.
   *R, Time Series Analysis, Trading Rules*
 
 - **Text Mining-Based Extraction, Organization, and Analysis of Water Quality Research
-    Publications in Sri Lanka**  
+   Publications in Sri Lanka**  
   Research project using R for text mining and data visualization.  
   *R, Text Mining, NLP, Python, SpacyR*
 
@@ -34,7 +34,7 @@ silver, and crude oil, enhancing market trend analysis with visualizations.
   *R, Data Visualization, Data preprocessing*
 
 - **Water and Salt Stress Tolerance of Different Varieties of Quinoa: A Climate Resilience Future Crop for Sri Lanka**
-  Guided statistical to evaluate quinoa stress tolerance, utilizing R and SAS
+  Guided statistical to evaluate quinoa stress tolerance, utilizing R and SAS.
   *R, SAS, Multivariate Non-parametric Methods, Mixed effect Models*
 
 
