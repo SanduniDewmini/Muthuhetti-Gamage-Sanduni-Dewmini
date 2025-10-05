@@ -1,12 +1,11 @@
 # 👋 Hi, I'm Sanduni Dewmini
 
 Welcome to my personal GitHub repository!  
-I am a Statistics graduate from the University of Sri Jayewardenepura, currently serving as a Teaching Assistant in the Department of Statistics and was a Research Intern at the International Water Management Institute (IWMI).
-
-I actively contribute to the Statistical Consultancy Service of the University, supporting research and data analysis across multiple domains.
+I am a Statistics graduate from the University of Sri Jayewardenepura, currently serving as a Teaching Assistant in the Department of Statistics and was a Research Intern at the International Water Management Institute (IWMI). I actively contribute to the Statistical Consultancy Service of the University, supporting research and data analysis across multiple domains.
 
 Alongside my academic and research work, I also work as a freelance Mathematics teacher, teaching students from Grade 6 to Ordinary Level.
-Passionate about transforming data into meaningful insights through statistical modeling, machine learning, and interactive dashboards.
+
+Passionate about transforming data into meaningful insights. My main areas of interest are Data Science, Business Statistics, and Artificial Intelligence (AI).
 
 ## 📂 Featured Projects
 
